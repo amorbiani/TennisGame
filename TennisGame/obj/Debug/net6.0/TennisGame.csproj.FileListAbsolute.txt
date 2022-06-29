@@ -1,0 +1,15 @@
+C:\Users\amorbiani\source\repos\TennisGame\bin\Debug\net6.0\TennisGame.exe
+C:\Users\amorbiani\source\repos\TennisGame\bin\Debug\net6.0\TennisGame.deps.json
+C:\Users\amorbiani\source\repos\TennisGame\bin\Debug\net6.0\TennisGame.runtimeconfig.json
+C:\Users\amorbiani\source\repos\TennisGame\bin\Debug\net6.0\TennisGame.dll
+C:\Users\amorbiani\source\repos\TennisGame\bin\Debug\net6.0\TennisGame.pdb
+C:\Users\amorbiani\source\repos\TennisGame\obj\Debug\net6.0\TennisGame.csproj.AssemblyReference.cache
+C:\Users\amorbiani\source\repos\TennisGame\obj\Debug\net6.0\TennisGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amorbiani\source\repos\TennisGame\obj\Debug\net6.0\TennisGame.AssemblyInfoInputs.cache
+C:\Users\amorbiani\source\repos\TennisGame\obj\Debug\net6.0\TennisGame.AssemblyInfo.cs
+C:\Users\amorbiani\source\repos\TennisGame\obj\Debug\net6.0\TennisGame.csproj.CoreCompileInputs.cache
+C:\Users\amorbiani\source\repos\TennisGame\obj\Debug\net6.0\TennisGame.dll
+C:\Users\amorbiani\source\repos\TennisGame\obj\Debug\net6.0\refint\TennisGame.dll
+C:\Users\amorbiani\source\repos\TennisGame\obj\Debug\net6.0\TennisGame.pdb
+C:\Users\amorbiani\source\repos\TennisGame\obj\Debug\net6.0\TennisGame.genruntimeconfig.cache
+C:\Users\amorbiani\source\repos\TennisGame\obj\Debug\net6.0\ref\TennisGame.dll
